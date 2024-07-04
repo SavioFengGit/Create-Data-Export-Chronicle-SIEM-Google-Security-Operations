@@ -7,5 +7,5 @@ Let's see how to create a data export with the Chronicle Post API into GCP bucke
 
 <br><br>
 
-#Author
+# Author
 <b>Xiao Li Savio Feng</b>
